@@ -48,13 +48,16 @@ I’m a passionate web development student diving into the world of modern front
 ## 🌐 Portfolio & Work
 
 - 🧑‍🎨 **Portfolio & Agency Site**: [nasrindesign.com](https://nasrindesign.com/home)  
-  WordPress-based site showcasing creative work and the Galaxy Three.js React component.
+   WordPress-based site showcasing creative work and the Galaxy Three.js React component.
+  ![Agency Screenshot](./agency.png)
 
 - 🛒 **E-commerce Website**: [lavazemsavarkarinamini.com](https://lavazemsavarkarinamini.com/)  
   A full WooCommerce-powered online store.
+  ![WooCommerce Screenshot](./woo.png)
 
 - 🏢 **Business Site**: [naminigeneraltrading.com](https://naminigeneraltrading.com/)  
   A clean, professional WordPress site built for a trading company.
+  ![Business Website Screenshot](./bp.png)
 
 ---
 
