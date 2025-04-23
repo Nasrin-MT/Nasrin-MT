@@ -33,7 +33,7 @@ I’m a passionate web development student diving into the world of modern front
 </div>
 
 ---
-  
+
 ## Projects
 
 ### Web Development
@@ -43,11 +43,25 @@ I’m a passionate web development student diving into the world of modern front
    A full-stack web platform for a real-life café offering table and board game reservations, event listings, and a Stripe-powered checkout. Includes multilingual support, working hours logic, and a full admin panel for managing tables, prices, and events.  
    _Tech stack: React, Node.js, Express, MongoDB, Mongoose, Stripe, JWT, HTML, CSS, Tailwind CSS, MUI, SweetAlert2, Day.js, libphonenumber-js, express-validator, Moment-Timezone, Nodemailer, bcryptjs_
 
-  ***
+---
 
-### Connect with Me
+## 🌐 Portfolio & Work
+
+- 🧑‍🎨 **Portfolio & Agency Site**: [nasrindesign.com](https://nasrindesign.com/home)  
+  WordPress-based site showcasing creative work and the Galaxy Three.js React component.
+
+- 🛒 **E-commerce Website**: [lavazemsavarkarinamini.com](https://lavazemsavarkarinamini.com/)  
+  A full WooCommerce-powered online store.
+
+- 🏢 **Business Site**: [naminigeneraltrading.com](https://naminigeneraltrading.com/)  
+  A clean, professional WordPress site built for a trading company.
+
+---
+
+### 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nasrin-tabar-787205205/)
+- 🌐 [nasrindesign.com](https://nasrindesign.com/home)
 
 Feel free to reach out if you’d like to collaborate or discuss interesting projects!
 
